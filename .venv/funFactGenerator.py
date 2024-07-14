@@ -1,4 +1,4 @@
-# Import the necessary module
+# Import the necessary modul
 import json
 import requests
 from pywebio.input import *
